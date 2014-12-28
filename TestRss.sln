@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRss", "TestRss\TestRss.csproj", "{D97D042F-0616-4BF1-B527-A9A9953B415F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RssFeeder", "RssFeeder\RssFeeder.csproj", "{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravatar", "..\..\Downloads\Gravatar\Gravatar.csproj", "{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Release|iPhone.Build.0 = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{197DDAC3-2EF0-4ED2-B780-0F104B17DE3C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Release|iPhone.Build.0 = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{9D75E2B4-0084-4CBF-A1A4-A319C702F80F}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Release|iPhone.Build.0 = Release|iPhone
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D97D042F-0616-4BF1-B527-A9A9953B415F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TestRss\TestRss.csproj
+	EndGlobalSection
+EndGlobal
